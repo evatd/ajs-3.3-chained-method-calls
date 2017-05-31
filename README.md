@@ -14,11 +14,11 @@ Notes:
 
 Test your code with these chained method calls:
 
-- // Chain some methods
-result1 = calc.increment().add(10).getTotal(); console.log(result1); 
+// Chain some methods
+- result1 = calc.increment().add(10).getTotal(); console.log(result1); 
 
-- // reset total
-calc.total = 0;
+// reset total
+- calc.total = 0;
 
-- // Chain some methods
-result2 = calc.add(7).subtract(3).getTotal(); console.log(result2); 
+// Chain some methods
+- result2 = calc.add(7).subtract(3).getTotal(); console.log(result2); 
