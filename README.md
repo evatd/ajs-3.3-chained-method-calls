@@ -15,10 +15,10 @@ Notes:
 Test your code with these chained method calls:
 
 // Chain some methods
-- result1 = calc.increment().add(10).getTotal(); console.log(result1); 
+[x] result1 = calc.increment().add(10).getTotal(); console.log(result1); 
 
 // reset total
-- calc.total = 0;
+[x] calc.total = 0;
 
 // Chain some methods
-- result2 = calc.add(7).subtract(3).getTotal(); console.log(result2); 
+[x] result2 = calc.add(7).subtract(3).getTotal(); console.log(result2); 
