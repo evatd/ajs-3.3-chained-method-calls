@@ -17,7 +17,7 @@ Test your code with these chained method calls:
 // Chain some methods
 - [x] result1 = calc.increment().add(10).getTotal(); console.log(result1); 
 
-// reset total
+// Reset total
 - [x] calc.total = 0;
 
 // Chain some methods
