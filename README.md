@@ -1,5 +1,9 @@
 # ajs-3.3-chained-method-calls
-Advanced JavaScript | Workshop 3 Task 3
+**Advanced JavaScript | Workshop 3 Task 3**
+
+Solution to the following task:
+
+### Task
 
 In workshop3.js, define an object called Calc that has a total property set to the value 0. You should also define these methods within the object:
 - add(number): Accepts a number as an argument and adds it to the total property of the object
